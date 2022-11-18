@@ -1,5 +1,5 @@
 # H Y R Tutorials
-
+Keerthiga V says that this is amazing knowledge transfer channel.
 This repository is created and will be used for uploading the programs which I created in my tutorial videos.
 
 Also it can be used to browse all the videos and playlists from single place.
